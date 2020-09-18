@@ -37,7 +37,7 @@
 		"videopress",
 		"wordads"
 	],
-	"beta": [ "amazon", "embed", "story" ],
+	"beta": [ "amazon", "story" ],
 	"experimental": [ "seo" ],
 	"no-post-editor": [
 		"business-hours",
